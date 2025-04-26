@@ -1,0 +1,23 @@
+body{
+    margin-top: 300px;
+    text-align: center;
+    background-color: rgb(121, 90, 95);
+    color: white;
+}
+form{
+    justify-content: center;
+    align-items: center;
+    
+}
+label{
+    font-size: 25px;
+}
+input{
+    border-radius: 50px;
+    width: 500px;
+    height: 50px;
+    margin-top: 20px ;
+    font-size: 20px;
+    text-align: center;
+}
+
